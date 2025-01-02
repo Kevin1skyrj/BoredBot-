@@ -66,11 +66,6 @@ Example Response:
 }
 ```
 
-## Screenshots
-
-![BoredBot Screenshot](#)
-_Add a screenshot of your project here_
-
 ## Future Enhancements
 
 - Add a feature to filter activities by type (e.g., recreational, cooking).
@@ -87,16 +82,11 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 4. Push to the branch (`git push origin feature-branch`).
 5. Open a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
 ## Author
 
 **Rajat Pandey**
 
 - GitHub: [Kevin1skyrj](https://github.com/Kevin1skyrj)
-- LinkedIn: [Your LinkedIn Profile](#)
 
 ---
 
