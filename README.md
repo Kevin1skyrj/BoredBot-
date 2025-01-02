@@ -4,7 +4,7 @@ BoredBot is a fun and interactive web app that helps users find activities to tr
 
 ## Demo
 
-You can check out the live demo of the project [here](#).
+You can check out the live demo of the project [here](file:///C:/Users/Rajat%20Pandey/Desktop/Frontend%20Development/BoredBot%20api%20project/index.html).
 
 ## Features
 
